@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Monopoly Extension</string>
+    <string name="titleText">Monopoly Extension</string>
+    <string name="agrega">Agregar Jugador</string>
+    <string name="paga">Pagar</string>
+    <string name="cobra">Cobra</string>
+    <string name="cobraText">Monto a sumar</string>
+    <string name="pagaText">Monto a pagar</string>
+    <string name="sign_in">Iniciar Sesion</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre">Nombre</string>
+    <string name="tarjeta">ID Tarjeta</string>
+    <string name="perfil">Imagen de Perfil</string>
+    <string name="guardar">Guardar</string>
+    <string name="edita_jugador">Edita Jugador</string>
+    <string name="about">About</string>
+    <string name="borra_jugador">Borra Jugador</string>
+    <string name="activar_modo_oscuro">Activar modo oscuro</string>
+    <string name="empezar_de_nuevo">Empezar de nuevo</string>
+    <string name="NoNFC">No tienes NFC</string>
+</resources>

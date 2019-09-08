@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/start"
+
+        android:title="@string/empezar_de_nuevo"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/darkMode"
+
+        android:title="@string/activar_modo_oscuro"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/borrarJuga"
+        android:title="@string/borra_jugador"
+        />
+
+    <!--<item-->
+        <!--android:id="@+id/about"-->
+        <!--android:title="@string/about"-->
+        <!--/>-->
+</menu>
